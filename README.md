@@ -1,6 +1,6 @@
 # Nodejs basics
 
-Inroducing Node.js through a set of guided exercises
+Introducing Node.js through a set of guided exercises
 
 ## 1. In this task, we will:
 
