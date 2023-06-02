@@ -5,7 +5,7 @@ Introducing Node.js through a set of guided exercises
 ## 1. In this task, we will:
 
 - Create a file named `hello-world.js`
-- Write a program to print "HELLO WORLD" to the console
+- Write a program to print `HELLO WORLD` to the console
 
 ## 2. In this task, we will:
 
